@@ -3,7 +3,7 @@ import './App.css';
 import { Verificacion } from './verificacion';
 
 function App() {
-  //
+  //hola
   return (
     <div className="App">
       <Router>
