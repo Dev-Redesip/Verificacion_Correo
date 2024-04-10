@@ -71,7 +71,7 @@ export const Verificacion = () => {
         <div className='container'>
             <Container fixed className='formContainer'>
                 <Typography variant="h5" align="center" className='title' gutterBottom>
-                    Verificacion de correo
+                Verificación de correo
                 </Typography>
                 {loading ? <Loading /> :
                     <> <Typography variant="p" align="center" gutterBottom>
